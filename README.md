@@ -1,6 +1,6 @@
 # Blesh iBeacon SDK
 
-This documentation is targeted for developers who are already in our development program. For more information and business inquiries please visit us at Blesh main page. https://www.blesh.com/#ibeacon
+This documentation is targeted for developers who are already in our development program. For more information and business inquiries please visit us at https://www.blesh.com
 
 ### Index
 * [Blesh SDK at a glance](#blesh-sdk-at-a-glance)
@@ -13,10 +13,10 @@ Blesh iBeacon SDK is distributed as a library project for iOS and Android platfo
 
 ## Integrating Blesh SDK into your application
 
-Integration process involves importing Blesh SDK library project into your application and starting Blesh service/framework. Please refer to our platform specific guides for more detail. Also, you should be able to download required files in the releases section of this repository.
+Integration process involves importing Blesh SDK library project into your application and starting Blesh Service/framework. Please refer to our platform specific guides for more detail.
 
 * [iOS](https://github.com/bleshinc/docs-v3/wiki/iOS-integration)
-* [Android Studio](https://github.com/bleshinc/docs-v3/wiki/Android-SDK-Integration-for-Android-Studio)
+* [Android](https://github.com/bleshinc/docs-v3/wiki/Android-SDK-Integration-for-Android-Studio)
 
 ## FAQ
 
